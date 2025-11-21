@@ -1,0 +1,38 @@
+{
+  "fonte": "SAEGO",
+  "coorte": "2015-2017",
+  "curso": "Matemática",
+  "periodo_referencia": "2023",
+  "dimensoes": [
+    {
+      "nome": "Estudantes",
+      "subdimensao": "Êxito Profissional",
+      "indicadores": {
+        "ocupacao_percentual": 62.2,
+        "total_egressos": 95,
+        "egressos_ocupados": 59
+      },
+      "descricao_indicador": "Percentual de egressos com vínculo de trabalho formal ou informal."
+    },
+    {
+      "nome": "Estudantes",
+      "subdimensao": "Êxito Acadêmico",
+      "indicadores": {
+        "diplomacao_percentual": 10.5,
+        "tempo_medio_conclusao_anos": 6.2,
+        "evasao_percentual_estimado": 47.8
+      },
+      "descricao_indicador": "Percentual de estudantes que concluíram o curso dentro da coorte analisada."
+    },
+    {
+      "nome": "Terceira Missão",
+      "subdimensao": "Profissionais de Alto Nível",
+      "indicadores": {
+        "overqualification_percentual": 24.0,
+        "profissionais_alta_complexidade": 13,
+        "total_egressos": 54
+      },
+      "descricao_indicador": "Percentual de egressos que exercem funções acima da qualificação formal exigida."
+    }
+  ]
+}
