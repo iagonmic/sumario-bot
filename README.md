@@ -1,17 +1,3 @@
-Claro! Aqui está um **README.md completo**, já incluindo:
-
-✔ Descrição do projeto
-✔ Arquitetura do sistema
-✔ Lista das funções + inputs/outputs
-✔ Fluxograma Mermaid
-✔ Estrutura do relatório
-✔ Exemplos
-✔ Sessões organizadas e prontas para uso no GitHub
-
-Se quiser, eu também posso gerar uma versão em inglês ou adicionar badges (build, license, version).
-
----
-
 # 📘 **Gerador de Sumários Executivos**
 
 Este repositório contém um robô capaz de produzir **sumários executivos automatizados** a partir de dados fornecidos pelo usuário.
@@ -183,15 +169,5 @@ Licença **MIT** — uso livre com créditos.
 
 Desenvolvido como parte de uma iniciativa do
 **Núcleo de Análise de Dados e Desempenho (A²D)** / **LEAD**
-para automação inteligente de relatórios institucionais.
-
----
-
-Se quiser, eu posso:
-
-✨ Criar uma imagem/banner para o topo do README
-✨ Criar badges (licença, versão, status)
-✨ Criar uma logo simples para o robô
-✨ Montar o README em inglês também
-
-Só pedir!
+para automação inteligente de relatórios institucionais e pelo
+**Laboratório de Estatística e Modelagem Aplicada** / **LEMA**
