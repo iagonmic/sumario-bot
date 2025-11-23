@@ -1,0 +1,142 @@
+/* ============================
+   estilo_dimensoes.css
+   Apenas páginas de dimensões
+   ============================ */
+
+/* base */
+:root {
+  --page-width: 800px;
+  --page-min-height: 1100px;
+  --accent: #2f6ed3;
+  --accent-dark: #1a3d7c;
+  --muted: #666;
+  --text: #222;
+  --font: "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  background: #e7e7e7;
+  margin: 0;
+  padding: 0;
+  font-family: var(--font);
+  color: var(--text);
+}
+
+.page {
+  width: var(--page-width);
+  min-height: var(--page-min-height);
+  background: #fff;
+  margin: 30px auto;
+  padding: 60px;
+  box-shadow: 0 6px 22px rgba(0,0,0,0.18);
+  box-sizing: border-box;
+  page-break-after: always;
+}
+
+/* Títulos gerais da dimensão */
+.dim-grupo {
+  font-size: 20px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 4px;
+}
+
+.dim-nome {
+  font-size: 28px;
+  color: var(--accent-dark);
+  font-weight: 800;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+/* Sub-seções */
+.subsecao {
+  margin-top: 40px;
+  padding-top: 10px;
+  border-top: 1px solid #eee;
+}
+
+.secao-titulo {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  color: #222;
+}
+
+.secao-subtitulo {
+  font-size: 14px;
+  color: var(--muted);
+  margin-left: 6px;
+}
+
+/* Fonte */
+.fonte {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+
+/* Blocos internos */
+.bloco {
+  margin-top: 20px;
+}
+
+.bloco h3 {
+  font-size: 16px;
+  margin-bottom: 8px;
+  font-weight: 700;
+  color: var(--accent-dark);
+  padding-left: 10px;
+  position: relative;
+}
+
+.bloco h3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 4px;
+  width: 5px;
+  height: 18px;
+  background: var(--accent);
+  border-radius: 2px;
+}
+
+/* Indicadores */
+.indicadores-lista {
+  list-style: none;
+  padding: 0;
+  margin: 8px 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.indicadores-lista li {
+  background: #f8faff;
+  border: 1px solid #e1e7f8;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.indicadores-lista li strong {
+  color: var(--accent-dark);
+}
+
+/* Análise e recomendação */
+p {
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: justify;
+  color: #333;
+}
+
+.recomendacoes-lista {
+  padding-left: 20px;
+}
+
+.recomendacoes-lista li {
+  margin: 6px 0;
+  font-size: 15px;
+  line-height: 1.45;
+}
