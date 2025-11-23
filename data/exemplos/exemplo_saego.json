@@ -12,7 +12,7 @@
         "total_egressos": 95,
         "egressos_ocupados": 59
       },
-      "descricao_indicador": "Percentual de egressos com vínculo de trabalho formal ou informal."
+      "descricao": "Percentual de egressos com vínculo de trabalho formal ou informal."
     },
     {
       "nome": "Estudantes",
@@ -22,7 +22,7 @@
         "tempo_medio_conclusao_anos": 6.2,
         "evasao_percentual_estimado": 47.8
       },
-      "descricao_indicador": "Percentual de estudantes que concluíram o curso dentro da coorte analisada."
+      "descricao": "Percentual de estudantes que concluíram o curso dentro da coorte analisada."
     },
     {
       "nome": "Terceira Missão",
@@ -32,7 +32,7 @@
         "profissionais_alta_complexidade": 13,
         "total_egressos": 54
       },
-      "descricao_indicador": "Percentual de egressos que exercem funções acima da qualificação formal exigida."
+      "descricao": "Percentual de egressos que exercem funções acima da qualificação formal exigida."
     }
   ]
 }
