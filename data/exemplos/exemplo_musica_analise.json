@@ -1,0 +1,55 @@
+{
+    "primeira_pagina": {
+        "fonte": "SAEGO",
+        "coorte": "2015-2017",
+        "curso": "MÃºsica",
+        "periodo_referencia": "2023"
+    },
+    "dimensoes": [
+        {
+            "grupo": "ESTUDANTES",
+            "nome": "Estudantes",
+            "secoes": [
+                {
+                    "titulo": "ÃŠxito profissional",
+                    "subtitulo": "OcupaÃ§Ã£o",
+                    "fonte": "SAEGO",
+                    "indicadores": {
+                        "ocupacao_percentual": "48,7%",
+                        "total_egressos": 80,
+                        "egressos_ocupados": 39
+                    },
+                    "analise": "O indicador de ocupação de 48,7% mostra que cerca de 39 dos 80 egressos estão no mercado de trabalho, refletindo um desempenho moderado na transição profissional. Esse percentual evidencia que menos da metade dos formados consegue inserir-se imediatamente no cenário laboral. Tal resultado sugere que a formação ainda deixa lacunas para atender às demandas regionais de emprego."
+                },
+                {
+                    "titulo": "ÃŠxito acadÃªmico",
+                    "subtitulo": "DiplomaÃ§Ã£o",
+                    "fonte": "SAEGO",
+                    "indicadores": {
+                        "diplomacao_percentual": "22,4%",
+                        "tempo_medio_conclusao_anos": 6.8,
+                        "evasao_percentual_estimado": "41,3%"
+                    },
+                    "analise": "A taxa de diplomação de 22,4 % e o tempo médio de conclusão de 6,8 anos revelam um processo de graduação lento.  \nA evasão estimada em 41,3 % indica perdas significativas de estudantes durante o percurso.  \nEsses dados sugerem desafios na retenção e eficiência do percurso acadêmico."
+                }
+            ]
+        },
+        {
+            "grupo": "TERCEIRA MISSÃƒO",
+            "nome": "Profissionais de Alto NÃ­vel",
+            "secoes": [
+                {
+                    "titulo": "Overqualification",
+                    "subtitulo": "Profissionais de Alta Complexidade",
+                    "fonte": "SAEGO",
+                    "indicadores": {
+                        "overqualification_percentual": "12,5%",
+                        "profissionais_alta_complexidade": 6,
+                        "total_egressos": 48
+                    },
+                    "analise": "O percentual de overqualification (12,5%) demonstra que 6 de 48 egressos possuem qualificações superiores ao exigido pelo mercado, refletindo uma parcela relevante de profissionais de alta complexidade. Essa constatação indica que a formação atende, em parte, demandas avançadas, mas também aponta para a necessidade de avaliar o alinhamento curricular com oportunidades de carreira exigentes no contexto local e regional."
+                }
+            ]
+        }
+    ]
+}
