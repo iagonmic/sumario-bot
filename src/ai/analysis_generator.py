@@ -6,6 +6,8 @@ from agno.agent import Agent
 from agno.models.groq import Groq
 from src.utils.logger import get_logger
 from dotenv import load_dotenv
+
+# teste
 from yaml import safe_load
 from json import load, dump
 
@@ -14,7 +16,7 @@ with open("src/config.yaml", "r") as f:
 
 data_path = f"{config['paths']['examples_dir']}/exemplo_musica.json"
 
-with open(data_path, 'r') as d:
+with open(data_path, 'r', encoding='utf-8') as d:
     data = load(d)
 
 load_dotenv()
@@ -42,18 +44,21 @@ def generate_analysis(dimensao_nome, secao) -> str:
 
     return response.content
 
-def save_to_json(data):
+def save_analysis_to_json(data):
     for i, dimensao in enumerate(data['dimensoes']):
-        logger.info(f"Gerando análise para dimensão {dimensao}")
+        logger.info(f"Gerando análise para dimensão {dimensao['nome']}")
 
         for j, secao in enumerate(data['dimensoes'][i]['secoes']):
-            logger.info(f"Gerando análise para seção {secao}")
+            logger.info(f"Gerando análise para seção {secao['titulo']}")
             response = generate_analysis(dimensao['nome'], secao)
             data['dimensoes'][i]['secoes'][j]['analise'] = response
+
     
     data_save_path = f"{config['paths']['examples_dir']}/exemplo_musica_analise.json"
+
 
     with open(data_save_path, 'w', encoding='utf-8') as file:
         dump(data, file, indent=4, ensure_ascii=False)
 
-save_to_json(data)
+
+save_analysis_to_json(data)

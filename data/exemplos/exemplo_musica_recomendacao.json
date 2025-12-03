@@ -1,0 +1,74 @@
+{
+    "primeira_pagina": {
+        "fonte": "SAEGO",
+        "coorte": "2015-2017",
+        "curso": "Música",
+        "periodo_referencia": "2023"
+    },
+    "dimensoes": [
+        {
+            "grupo": "ESTUDANTES",
+            "nome": "Estudantes",
+            "secoes": [
+                {
+                    "titulo": "Êxito profissional",
+                    "subtitulo": "Ocupação",
+                    "fonte": "SAEGO",
+                    "indicadores": {
+                        "ocupacao_percentual": "48,7%",
+                        "total_egressos": 80,
+                        "egressos_ocupados": 39
+                    },
+                    "analise": "O índice de ocupação dos egressos, 48,7 % (39 de 80), indica um nível moderado de inserção profissional, refletindo que menos da metade dos formados ingressou no mercado de trabalho.  \nTal desempenho sugere que a formação oferecida ainda apresenta lacunas para atender às demandas locais e regionais, exigindo um maior alinhamento entre o currículo acadêmico e as oportunidades de emprego disponíveis.",
+                    "recomendacoes": [
+                        "Fortalecer parcerias estratégicas com empresas, órgãos públicos e organizações sociais locais para criar oportunidades de estágio, trainee e vagas de emprego diretas aos egressos.",
+                        "Estender e formalizar programas de extensão e projetos práticos que coloquem os estudantes em contextos reais de mercado, reforçando a aplicação dos conteúdos acadêmicos.",
+                        "Implementar um sistema de acompanhamento de carreira (career center) que monitore a empregabilidade dos egressos, identifique áreas de baixa inserção e informe ajustes curriculares baseados em demanda regional.",
+                        "Revisar o currículo com o apoio de representantes do setor produtivo, inserindo competências emergentes e projetos de inovação que atendam às exigências do mercado de trabalho local.",
+                        "Criar um programa de mentoria e networking com ex-alunos, facilitando a transferência de conhecimento, o compartilhamento de oportunidades e a construção de uma comunidade profissional robusta."
+                    ]
+                },
+                {
+                    "titulo": "Êxito acadêmico",
+                    "subtitulo": "Diplomação",
+                    "fonte": "SAEGO",
+                    "indicadores": {
+                        "diplomacao_percentual": "22,4%",
+                        "tempo_medio_conclusao_anos": 6.8,
+                        "evasao_percentual_estimado": "41,3%"
+                    },
+                    "analise": "A taxa de graduação de 22,4 % mostra um desempenho acadêmico abaixo da média, indicando dificuldades na retenção e conclusão dos cursos. O tempo médio de conclusão, de 6,8 anos, excede o padrão típico de 4–5 anos para graduação, sinalizando atrasos no percurso estudantil. A evasão estimada em 41,3 % reflete um alto nível de desistência, exigindo atenção à trajetória dos estudantes.",
+                    "recomendacoes": [
+                        "Implantar um sistema de alerta precoce que monitore presença, desempenho e engajamento dos estudantes, permitindo intervenções personalizadas de tutoria e acompanhamento acadêmico desde os primeiros semestres.",
+                        "Revisar a estrutura curricular para reduzir a carga horária por semestre, introduzir módulos intensivos ou créditos transferíveis e oferecer cursos online que possibilitem ritmo acelerado de conclusão, diminuindo o tempo médio de graduação.",
+                        "Fortalecer o serviço de orientação acadêmica e de carreira, vinculando mentores, oficinas de competências profissionais e planos de trajetória que alinhem expectativas de trabalho com a formação recebida, visando reduzir a evasão e aumentar a taxa de diplomação.",
+                        "Estabelecer centros de apoio estudantil que ofereçam aulas de reforço, treinamento em técnicas de estudo e suporte psicológico, criando um ambiente propício à permanência e ao sucesso acadêmico."
+                    ]
+                }
+            ]
+        },
+        {
+            "grupo": "TERCEIRA MISSÃO",
+            "nome": "Profissionais de Alto Nível",
+            "secoes": [
+                {
+                    "titulo": "Overqualification",
+                    "subtitulo": "Profissionais de Alta Complexidade",
+                    "fonte": "SAEGO",
+                    "indicadores": {
+                        "overqualification_percentual": "12,5%",
+                        "profissionais_alta_complexidade": 6,
+                        "total_egressos": 48
+                    },
+                    "analise": "O percentual de 12,5 % (6 de 48 egressos) que ocupa cargos de alta complexidade indica que a formação atende a um segmento de profissionais de alto nível. Contudo, essa proporção sugere que apenas uma parte limitada da turma entra em posições que exigem esse grau de especialização, sinalizando um potencial de expansão na oferta de oportunidades qualificadas.",
+                    "recomendacoes": [
+                        "Ampliar a grade curricular com cursos avançados, certificações e trilhas especializadas que preparem os egressos para cargos de alta complexidade, de forma a aumentar o percentual de 12,5 % (6 de 48) de profissionais inseridos em posições exigentes.",
+                        "Fortalecer parcerias estratégicas com empresas, órgãos públicos e organizações que demandam profissionais de alto nível, criando programas de estágios supervisionados, projetos de pesquisa aplicada e oportunidades de trainee que conectem diretamente os estudantes a esses mercados.",
+                        "Implantar um programa de mentoria e networking, conectando ex-alunos já ocupando cargos de alta complexidade com alunos atuais, de modo a transferir conhecimentos práticos, orientações de carreira e ampliar a visibilidade de oportunidades.",
+                        "Desenvolver um painel de indicadores de desempenho (KPIs) alinhados ao Balanced Scorecard, monitorando a evolução do percentual de egressos em posições de alta complexidade e ajustando a formação conforme os resultados obtidos, garantindo que a estratégia acadêmica responda de forma ágil às demandas do mercado."
+                    ]
+                }
+            ]
+        }
+    ]
+}
