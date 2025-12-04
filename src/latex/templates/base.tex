@@ -1,0 +1,80 @@
+\documentclass[a4paper,12pt]{article}
+
+% Pacotes básicos
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern} % Fonte
+\usepackage[brazil]{babel}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{tcolorbox}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{multicol}
+\usepackage{pdfpages}
+
+% Margens
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm
+}
+
+% Cores
+\definecolor{titulo}{HTML}{003366}
+\definecolor{boxbg}{HTML}{F2F7FF}
+\definecolor{boxborder}{HTML}{003366}
+
+% Hyperlinks
+\hypersetup{
+    colorlinks=true,
+    linkcolor=titulo,
+    urlcolor=blue
+}
+
+% Cabeçalho e rodapé
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textbf{Relatório Estratégico}}
+\fancyhead[R]{UFPB – LEAD / A²D}
+\fancyfoot[C]{\thepage}
+
+% Estilo dos títulos
+\titleformat{\section}
+{\normalfont\Large\bfseries\color{titulo}}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+{\normalfont\large\bfseries}{\thesubsection}{1em}{}
+
+% Box padrão
+\tcbset{
+    mybox/.style={
+        colback=boxbg,
+        colframe=boxborder,
+        boxrule=0.8pt,
+        rounded corners,
+        arc=5pt,
+        left=10pt,
+        right=10pt,
+        top=10pt,
+        bottom=10pt,
+    }
+}
+
+% CAPA
+{{ first_page }}
+
+\newpage
+
+% CORPO DO DOCUMENTO
+{{ body }}
+
+\end{document}
