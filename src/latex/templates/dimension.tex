@@ -1,0 +1,36 @@
+\section*{ {{ grupo }} }
+\subsection*{ {{ nome }} }
+
+{% for secao in secoes %}
+
+% Título da subseção
+\subsubsection*{ {{ secao.titulo }} — {{ secao.subtitulo }} }
+
+\begin{tcolorbox}[mybox]
+\textbf{Fonte:} {{ secao.fonte }} \\[0.2cm]
+
+\textbf{Dados}
+\begin{itemize}
+{% for k,v in secao.indicadores.items() %}
+    \item \textbf{{ k.replace("_"," ").title() }}: {{ v }}
+{% endfor %}
+\end{itemize}
+\end{tcolorbox}
+
+\bigskip
+
+\textbf{Análise} \\[0.2cm]
+{{ secao.analise }}
+
+\bigskip
+
+\textbf{Recomendações}
+\begin{itemize}[leftmargin=1cm]
+{% for rec in secao.recomendacoes %}
+    \item {{ rec }}
+{% endfor %}
+\end{itemize}
+
+\bigskip
+
+{% endfor %}
