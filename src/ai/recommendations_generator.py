@@ -34,24 +34,25 @@ def generate_recommendations(dimensao_nome, secao) -> list:
         "Analise especificamente de acordo com a análise, não seja generalista",
         "Considere todo o contexto acadêmico e o modelo de balanced scorecard ao produzir as recomendações"
         ],
-    expected_output="Retorne em formato de bullet points, de 3 a 5 bullet points, sendo eles separados por -"
+    expected_output="Retorne em texto corrido, até 300 caracteres"
 )
     
     response = agent.run(
         f"""Forneça recomendações sobre a dimensão {dimensao_nome}, secao {secao}, seguindo uma estrutura parecida com: 
-        - Fortalecer parcerias com empresas, órgãos públicos e organizações sociais para a inserção de egressos.
-        - Incentivar projetos de extensão e estágios que aproximem o estudante do mercado de trabalho.
-        - Criar mecanismos de acompanhamento de egressos para identificar áreas de baixa empregabilidade e ajustar a formação profissional.""")
+        Para fortalecer a inserção dos egressos no mercado de trabalho, é fundamental ampliar as parcerias com empresas, órgãos públicos e organizações sociais, bem como incentivar projetos de extensão e estágios que aproximem os estudantes da prática profissional. Além disso, a criação de mecanismos de acompanhamento dos egressos permite identificar áreas com baixa empregabilidade e ajustar a formação oferecida, garantindo maior alinhamento às demandas atuais do mercado.""")
     
     # Converte o texto em lista
     recomendacoes_texto = response.content
+    '''
     recomendacoes_lista = [
         linha.strip().lstrip('- ').strip() 
         for linha in recomendacoes_texto.split('\n') 
         if linha.strip().startswith('-')
     ]
+    '''
     
-    return recomendacoes_lista
+    
+    return recomendacoes_texto
 
 def save_recommendations_to_json(data):
     for i, dimensao in enumerate(data['dimensoes']):

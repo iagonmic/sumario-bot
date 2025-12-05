@@ -44,7 +44,7 @@ def generate_analysis(dimensao_nome, secao) -> str:
 
     return response.content
 
-def save_analysis_to_json(data):
+def save_analysis_to_json(data, data_save_path):
     for i, dimensao in enumerate(data['dimensoes']):
         logger.info(f"Gerando análise para dimensão {dimensao['nome']}")
 
@@ -55,7 +55,6 @@ def save_analysis_to_json(data):
 
     
     data_save_path = f"{config['paths']['examples_dir']}/exemplo_musica_analise.json"
-
 
     with open(data_save_path, 'w', encoding='utf-8') as file:
         dump(data, file, indent=4, ensure_ascii=False)
