@@ -1,0 +1,75 @@
+{
+  "primeira_pagina": {
+    "fonte": "SAEGO",
+    "coorte": "2015-2017",
+    "curso": "Matemática",
+    "periodo_referencia": "2023"
+  },
+
+  "dimensoes": [
+
+    {
+      "grupo": "ESTUDANTES",
+      "nome": "Estudantes",
+      "secoes": [
+        {
+          "titulo": "Êxito profissional",
+          "subtitulo": "Ocupação",
+          "fonte": "SAEGO",
+          "indicadores": {
+            "ocupacao_percentual": "62,2%",
+            "total_egressos": 95,
+            "egressos_ocupados": 59
+          },
+          "analise": "O índice de ocupação dos egressos é moderado, indicando que pouco mais da metade dos formados está inserido no mercado de trabalho. O resultado aponta a necessidade de ampliar o vínculo entre a formação acadêmica e oportunidades profissionais, especialmente no contexto local e regional.",
+          "recomendacoes": [
+            "Fortalecer parcerias com empresas, órgãos públicos e organizações sociais para inserção de egressos.",
+            "Incentivar projetos de extensão e estágios que aproximem o estudante do mercado de trabalho.",
+            "Criar mecanismos de acompanhamento de egressos para identificar áreas de baixa empregabilidade e ajustar a formação profissional."
+          ]
+        },
+
+        {
+          "titulo": "Êxito acadêmico",
+          "subtitulo": "Diplomação",
+          "fonte": "SAEGO",
+          "indicadores": {
+            "diplomacao_percentual": "10,5%",
+            "tempo_medio_conclusao_anos": 6.2,
+            "evasao_percentual_estimado": "47,8%"
+          },
+          "analise": "A taxa de diplomação é bastante reduzida, sugerindo desafios significativos na permanência e conclusão dos cursos. Esse dado indica possíveis dificuldades relacionadas à evasão, ao apoio acadêmico e à adequação das condições de ensino às necessidades dos estudantes.",
+          "recomendacoes": [
+            "Implementar políticas institucionais de permanência e acompanhamento acadêmico.",
+            "Oferecer apoio pedagógico, psicológico e financeiro aos discentes em risco de evasão.",
+            "Reavaliar fluxos curriculares e metodologias para facilitar a conclusão dos cursos dentro do prazo regular."
+          ]
+        }
+      ]
+    },
+
+    {
+      "grupo": "TERCEIRA MISSÃO",
+      "nome": "Profissionais de Alto Nível",
+      "secoes": [
+        {
+          "titulo": "Overqualification",
+          "subtitulo": "Profissionais de Alta Complexidade",
+          "fonte": "SAEGO",
+          "indicadores": {
+            "overqualification_percentual": "24,0%",
+            "profissionais_alta_complexidade": 13,
+            "total_egressos": 54
+          },
+          "analise": "O percentual de egressos em ocupações acima do nível exigido de qualificação demonstra uma inserção relevante em posições de maior complexidade e responsabilidade. Esse resultado sugere que parte significativa dos formados consegue aplicar de maneira efetiva suas competências, refletindo positivamente na reputação e no potencial formativo dos cursos.",
+          "recomendacoes": [
+            "Manter a ênfase em competências analíticas, técnicas e socioemocionais para favorecer o desempenho em cargos de alta exigência.",
+            "Fortalecer o vínculo com o setor produtivo e o serviço público para consolidar a presença de egressos em funções estratégicas.",
+            "Promover acompanhamento contínuo dos egressos para avaliar o alinhamento entre formação, empregabilidade e qualificação ocupacional."
+          ]
+        }
+      ]
+    }
+
+  ]
+}

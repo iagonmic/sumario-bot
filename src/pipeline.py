@@ -8,10 +8,10 @@ from data_processing.validator import validate_data_structure
 from data_processing.preprocess import preprocess_data
 from data_processing.dimensions import extract_dimensions
 
-from ai.analysis_generator import generate_analysis, save_analysis_to_json
-from ai.recommendations_generator import generate_recommendations, save_recommendations_to_json
+from ai.analysis_generator import save_analysis_to_json
+from ai.recommendations_generator import save_recommendations_to_json
 
-from pdf.first_page import render_first_page
+from latex.first_page import render_first_page
 from pdf.page_builder import render_dimension_pages
 from pdf.pdf_merger import merge_pdf
 from pdf.exporter import export_pdf

@@ -1,0 +1,61 @@
+{
+  "primeira_pagina": {
+    "fonte": "SARA",
+    "coorte": 2025.1,
+    "periodo_referencia": 2025.1
+  },
+  "dimensoes": [
+    {
+      "grupo": "PROCESSOS INTERNOS",
+      "nome": "Processos Internos",
+      "secoes": [
+        {
+          "titulo": "Suporte à Formação",
+          "subtitulo": "Coordenação",
+          "fonte": "SARA",
+          "indicadores": {
+            "coordenacao_media": 9.35
+          }
+        },
+        {
+          "titulo": "Formação",
+          "subtitulo": "Desempenho dos Docentes",
+          "fonte": "SARA",
+          "indicadores": {
+            "docentes_media": 9.14
+          }
+        },
+        {
+          "titulo": "Gestão",
+          "subtitulo": "Infraestrutura",
+          "fonte": "SARA",
+          "indicadores": {
+            "infraestrutura_media": 8.3
+          }
+        },
+        {
+          "titulo": "Suporte à Formação",
+          "subtitulo": "Secretaria",
+          "fonte": "SARA",
+          "indicadores": {
+            "secretaria_media": 9.83
+          }
+        }
+      ]
+    },
+    {
+      "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+      "nome": "Estudantes e Organizações",
+      "secoes": [
+        {
+          "titulo": "NPS",
+          "subtitulo": "Recomendação do Programa",
+          "fonte": "SARA",
+          "indicadores": {
+            "nps": 9.7
+          }
+        }
+      ]
+    }
+  ]
+}

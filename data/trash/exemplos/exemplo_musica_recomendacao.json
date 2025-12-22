@@ -1,0 +1,58 @@
+{
+    "primeira_pagina": {
+        "fonte": "SAEGO",
+        "coorte": "2015-2017",
+        "curso": "Música",
+        "periodo_referencia": "2023"
+    },
+    "dimensoes": [
+        {
+            "grupo": "ESTUDANTES",
+            "nome": "Estudantes",
+            "secoes": [
+                {
+                    "titulo": "Êxito profissional",
+                    "subtitulo": "Ocupação",
+                    "fonte": "SAEGO",
+                    "indicadores": {
+                        "ocupacao_percentual": "48,7%",
+                        "total_egressos": 80,
+                        "egressos_ocupados": 39
+                    },
+                    "analise": "O índice de ocupação dos egressos, 48,7 % (39 de 80), indica um nível moderado de inserção profissional, refletindo que menos da metade dos formados ingressou no mercado de trabalho.  \nTal desempenho sugere que a formação oferecida ainda apresenta lacunas para atender às demandas locais e regionais, exigindo um maior alinhamento entre o currículo acadêmico e as oportunidades de emprego disponíveis.",
+                    "recomendacoes": "Para elevar a taxa de ocupação, intensifique parcerias com empresas e órgãos públicos, ampliando estágios e projetos de extensão que reflitam as demandas regionais. Atualize o currículo com competências demandadas, implemente mentorias de egressos e monitore indicadores de empregabilidade para ajustes contínuos."
+                },
+                {
+                    "titulo": "Êxito acadêmico",
+                    "subtitulo": "Diplomação",
+                    "fonte": "SAEGO",
+                    "indicadores": {
+                        "diplomacao_percentual": "22,4%",
+                        "tempo_medio_conclusao_anos": 6.8,
+                        "evasao_percentual_estimado": "41,3%"
+                    },
+                    "analise": "A taxa de graduação de 22,4 % mostra um desempenho acadêmico abaixo da média, indicando dificuldades na retenção e conclusão dos cursos. O tempo médio de conclusão, de 6,8 anos, excede o padrão típico de 4–5 anos para graduação, sinalizando atrasos no percurso estudantil. A evasão estimada em 41,3 % reflete um alto nível de desistência, exigindo atenção à trajetória dos estudantes.",
+                    "recomendacoes": "Para melhorar a diplomação, implemente mentorias acadêmicas e monitoramento de progresso em tempo real, reduzindo o tempo médio de 6,8 anos para 4‑5 anos. Estabeleça programas de apoio financeiro e psicossocial para reduzir a evasão de 41,3 %. Avalie e ajuste currículos com base em dados de desempenho e feedback estudantil."
+                }
+            ]
+        },
+        {
+            "grupo": "TERCEIRA MISSÃO",
+            "nome": "Profissionais de Alto Nível",
+            "secoes": [
+                {
+                    "titulo": "Overqualification",
+                    "subtitulo": "Profissionais de Alta Complexidade",
+                    "fonte": "SAEGO",
+                    "indicadores": {
+                        "overqualification_percentual": "12,5%",
+                        "profissionais_alta_complexidade": 6,
+                        "total_egressos": 48
+                    },
+                    "analise": "O percentual de 12,5 % (6 de 48 egressos) que ocupa cargos de alta complexidade indica que a formação atende a um segmento de profissionais de alto nível. Contudo, essa proporção sugere que apenas uma parte limitada da turma entra em posições que exigem esse grau de especialização, sinalizando um potencial de expansão na oferta de oportunidades qualificadas.",
+                    "recomendacoes": "Fortaleça a inserção de egressos de alto nível: amplie parcerias com empresas, órgãos públicos e ONGs, promova estágios e projetos de extensão que reflitam a complexidade exigida. Implemente monitoramento contínuo para ajustar a oferta de cursos às demandas do mercado."
+                }
+            ]
+        }
+    ]
+}
