@@ -81,22 +81,28 @@ def transform_sara(data_path):
         with open(saida / f"sara_{periodo}.json", "w", encoding="utf-8") as f:
             json.dump(json_periodo, f, ensure_ascii=False, indent=2)
 
+
     df_melhoria = pd.read_excel(data_path, sheet_name='Melhoria')
 
 
-def gerar_json_periodo(df_periodo, periodo):
+def gerar_json_programa(df_prog, periodo):
+    primeira_pagina = {
+        "fonte": "SARA",
+        "coorte": periodo,
+        "periodo_referencia": periodo,
+        "programa": df_prog["PROGRAMA"].iloc[0],
+        "sigla_programa": df_prog["SIGLA_PROGRAMA"].iloc[0],
+        "centro": df_prog["SIGLA_CENTRO"].iloc[0]
+    }
+
     resultado = {
-        "primeira_pagina": {
-            "fonte": "SARA",
-            "coorte": periodo,
-            "periodo_referencia": periodo
-        },
+        "primeira_pagina": primeira_pagina,
         "dimensoes": []
     }
 
     grupos = {}
 
-    for _, row in df_periodo.iterrows():
+    for _, row in df_prog.iterrows():
         dim_sara = row["DIMENSÃO"]
         valor = round(row["RESPOSTA"], 2)
 
@@ -111,7 +117,6 @@ def gerar_json_periodo(df_periodo, periodo):
         subtitulo = m["subtitulo"]
         indicador = m["indicador"]
 
-        # cria grupo se não existir
         if grupo_nome not in grupos:
             grupos[grupo_nome] = {
                 "grupo": grupo_nome,
@@ -119,23 +124,33 @@ def gerar_json_periodo(df_periodo, periodo):
                 "secoes": {}
             }
 
-        grupo = grupos[grupo_nome]
-
-        # cria seção se não existir
-        if subtitulo not in grupo["secoes"]:
-            grupo["secoes"][subtitulo] = {
+        if titulo not in grupos[grupo_nome]["secoes"]:
+            grupos[grupo_nome]["secoes"][titulo] = {
                 "titulo": titulo,
                 "subtitulo": subtitulo,
                 "fonte": "SARA",
                 "indicadores": {}
             }
 
-        # adiciona indicador
-        grupo["secoes"][subtitulo]["indicadores"][indicador] = valor
+        grupos[grupo_nome]["secoes"][titulo]["indicadores"][indicador] = valor
 
-    # transforma secoes em lista
     for grupo in grupos.values():
         grupo["secoes"] = list(grupo["secoes"].values())
         resultado["dimensoes"].append(grupo)
+
+    return resultado
+
+def gerar_json_periodo(df_periodo, periodo):
+    resultado = {
+        "periodo": periodo,
+        "fonte": "SARA",
+        "programas": []
+    }
+
+    for _, df_prog in df_periodo.groupby(
+        ["PROGRAMA", "SIGLA_PROGRAMA", "SIGLA_CENTRO"]
+    ):
+        json_prog = gerar_json_programa(df_prog, periodo)
+        resultado["programas"].append(json_prog)
 
     return resultado
