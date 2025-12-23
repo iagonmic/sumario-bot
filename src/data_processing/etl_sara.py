@@ -8,7 +8,7 @@ from pathlib import Path
 # dados do sara -> dados_prpg.xlsx
 # dados do sidtec ->
 
-data_output = "data/ready"
+data_output = "data/ar"
 
 
 mapa_dimensoes_sara = {
@@ -52,7 +52,7 @@ mapa_dimensoes_sara = {
 
 def transform_sara(data_path):
     """
-    Aceita um arquivo xlsx e transforma em json com o nome do arquivo no diretório data/ready com o mesmo nome
+    Aceita um arquivo xlsx e transforma em json com o nome do arquivo no diretório data/ar com o mesmo nome
     
     :param data_path: XLSX
     """
@@ -72,7 +72,7 @@ def transform_sara(data_path):
     medias = df_notas.groupby(['PERIODO_LETIVO', 'PROGRAMA', 'SIGLA_PROGRAMA', 'SIGLA_CENTRO', 'DIMENSÃO'])['RESPOSTA'].mean().reset_index() # calcular medias
     medias = medias.query('DIMENSÃO in @indicadores') # filtrar por indicadores selecionados
 
-    saida = Path("../ready")
+    saida = Path("../ar")
     saida.mkdir(exist_ok=True)
 
     for periodo, df_p in medias.groupby("PERIODO_LETIVO"):
@@ -124,15 +124,15 @@ def gerar_json_programa(df_prog, periodo):
                 "secoes": {}
             }
 
-        if titulo not in grupos[grupo_nome]["secoes"]:
-            grupos[grupo_nome]["secoes"][titulo] = {
+        if subtitulo not in grupos[grupo_nome]["secoes"]:
+            grupos[grupo_nome]["secoes"][subtitulo] = {
                 "titulo": titulo,
                 "subtitulo": subtitulo,
                 "fonte": "SARA",
                 "indicadores": {}
             }
 
-        grupos[grupo_nome]["secoes"][titulo]["indicadores"][indicador] = valor
+        grupos[grupo_nome]["secoes"][subtitulo]["indicadores"][indicador] = valor
 
     for grupo in grupos.values():
         grupo["secoes"] = list(grupo["secoes"].values())

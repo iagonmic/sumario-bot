@@ -4,6 +4,7 @@ log_level: INFO
 
 paths:
   input_dir: data/principal
+  analysis_and_recommendation_dir: data/ar
   examples_dir: data/exemplos
   output_dir: relatorios
   logs: logs/execucao.log

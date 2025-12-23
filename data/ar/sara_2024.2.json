@@ -21,8 +21,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.57,
-                "secretaria_media": 9.58
+                "coordenacao_media": 9.57
               }
             },
             {
@@ -39,6 +38,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.37
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.58
               }
             }
           ]
@@ -78,8 +85,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.76,
-                "secretaria_media": 8.27
+                "coordenacao_media": 8.76
               }
             },
             {
@@ -96,6 +102,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.05
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.27
               }
             }
           ]
@@ -135,8 +149,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.1,
-                "secretaria_media": 9.38
+                "coordenacao_media": 9.1
               }
             },
             {
@@ -153,6 +166,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 5.86
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.38
               }
             }
           ]
@@ -192,8 +213,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.08,
-                "secretaria_media": 8.62
+                "coordenacao_media": 9.08
               }
             },
             {
@@ -210,6 +230,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 5.77
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.62
               }
             }
           ]
@@ -249,8 +277,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.57,
-                "secretaria_media": 9.38
+                "coordenacao_media": 9.57
               }
             },
             {
@@ -267,6 +294,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 8.05
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.38
               }
             }
           ]
@@ -306,8 +341,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 10.0,
-                "secretaria_media": 10.0
+                "coordenacao_media": 10.0
               }
             },
             {
@@ -324,6 +358,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.92
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 10.0
               }
             }
           ]
@@ -363,8 +405,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.0,
-                "secretaria_media": 8.4
+                "coordenacao_media": 8.0
               }
             },
             {
@@ -381,6 +422,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.0
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.4
               }
             }
           ]
@@ -420,8 +469,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.88,
-                "secretaria_media": 8.5
+                "coordenacao_media": 9.88
               }
             },
             {
@@ -438,6 +486,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.88
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.5
               }
             }
           ]
@@ -477,8 +533,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.41,
-                "secretaria_media": 9.83
+                "coordenacao_media": 9.41
               }
             },
             {
@@ -495,6 +550,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.97
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.83
               }
             }
           ]
@@ -534,8 +597,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.04,
-                "secretaria_media": 9.25
+                "coordenacao_media": 9.04
               }
             },
             {
@@ -552,6 +614,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 8.25
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.25
               }
             }
           ]
@@ -591,8 +661,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.29,
-                "secretaria_media": 7.43
+                "coordenacao_media": 9.29
               }
             },
             {
@@ -609,6 +678,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.29
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 7.43
               }
             }
           ]
@@ -648,8 +725,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.35,
-                "secretaria_media": 9.08
+                "coordenacao_media": 9.35
               }
             },
             {
@@ -666,6 +742,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.81
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.08
               }
             }
           ]
@@ -705,8 +789,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.67,
-                "secretaria_media": 8.72
+                "coordenacao_media": 9.67
               }
             },
             {
@@ -723,6 +806,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.89
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.72
               }
             }
           ]
@@ -762,8 +853,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.36,
-                "secretaria_media": 9.0
+                "coordenacao_media": 9.36
               }
             },
             {
@@ -780,6 +870,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.36
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.0
               }
             }
           ]
@@ -819,8 +917,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.23,
-                "secretaria_media": 9.15
+                "coordenacao_media": 9.23
               }
             },
             {
@@ -837,6 +934,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.92
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.15
               }
             }
           ]
@@ -876,8 +981,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.61,
-                "secretaria_media": 9.7
+                "coordenacao_media": 9.61
               }
             },
             {
@@ -894,6 +998,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.3
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.7
               }
             }
           ]
@@ -933,8 +1045,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.52,
-                "secretaria_media": 9.74
+                "coordenacao_media": 9.52
               }
             },
             {
@@ -951,6 +1062,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.91
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.74
               }
             }
           ]
@@ -990,8 +1109,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.85,
-                "secretaria_media": 8.85
+                "coordenacao_media": 8.85
               }
             },
             {
@@ -1008,6 +1126,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.85
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.85
               }
             }
           ]
@@ -1047,8 +1173,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.32,
-                "secretaria_media": 9.15
+                "coordenacao_media": 9.32
               }
             },
             {
@@ -1065,6 +1190,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.91
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.15
               }
             }
           ]
@@ -1104,8 +1237,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.35,
-                "secretaria_media": 8.47
+                "coordenacao_media": 8.35
               }
             },
             {
@@ -1122,6 +1254,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.41
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.47
               }
             }
           ]
@@ -1161,8 +1301,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.07,
-                "secretaria_media": 9.07
+                "coordenacao_media": 8.07
               }
             },
             {
@@ -1179,6 +1318,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 5.41
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.07
               }
             }
           ]
@@ -1218,8 +1365,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.15,
-                "secretaria_media": 7.33
+                "coordenacao_media": 9.15
               }
             },
             {
@@ -1236,6 +1382,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 8.26
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 7.33
               }
             }
           ]
@@ -1275,8 +1429,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 7.94,
-                "secretaria_media": 7.25
+                "coordenacao_media": 7.94
               }
             },
             {
@@ -1293,6 +1446,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 8.19
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 7.25
               }
             }
           ]
@@ -1332,8 +1493,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.33,
-                "secretaria_media": 9.0
+                "coordenacao_media": 9.33
               }
             },
             {
@@ -1350,6 +1510,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.04
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.0
               }
             }
           ]
@@ -1389,8 +1557,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.93,
-                "secretaria_media": 9.04
+                "coordenacao_media": 8.93
               }
             },
             {
@@ -1407,6 +1574,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.7
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.04
               }
             }
           ]
@@ -1446,8 +1621,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.85,
-                "secretaria_media": 8.22
+                "coordenacao_media": 8.85
               }
             },
             {
@@ -1464,6 +1638,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 8.19
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.22
               }
             }
           ]
@@ -1503,8 +1685,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.42,
-                "secretaria_media": 9.16
+                "coordenacao_media": 9.42
               }
             },
             {
@@ -1521,6 +1702,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.43
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.16
               }
             }
           ]
@@ -1560,8 +1749,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.55,
-                "secretaria_media": 9.87
+                "coordenacao_media": 8.55
               }
             },
             {
@@ -1578,6 +1766,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.84
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.87
               }
             }
           ]
@@ -1617,8 +1813,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.16,
-                "secretaria_media": 9.53
+                "coordenacao_media": 9.16
               }
             },
             {
@@ -1635,6 +1830,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 8.21
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.53
               }
             }
           ]
@@ -1674,8 +1877,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.69,
-                "secretaria_media": 9.81
+                "coordenacao_media": 9.69
               }
             },
             {
@@ -1692,6 +1894,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.88
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.81
               }
             }
           ]
@@ -1731,8 +1941,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.2,
-                "secretaria_media": 8.98
+                "coordenacao_media": 9.2
               }
             },
             {
@@ -1749,6 +1958,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.74
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.98
               }
             }
           ]
@@ -1788,8 +2005,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.67,
-                "secretaria_media": 9.58
+                "coordenacao_media": 8.67
               }
             },
             {
@@ -1806,6 +2022,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.58
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.58
               }
             }
           ]
@@ -1845,8 +2069,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.05,
-                "secretaria_media": 9.45
+                "coordenacao_media": 9.05
               }
             },
             {
@@ -1863,6 +2086,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.1
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.45
               }
             }
           ]
@@ -1902,8 +2133,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.18,
-                "secretaria_media": 9.23
+                "coordenacao_media": 9.18
               }
             },
             {
@@ -1920,6 +2150,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.5
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.23
               }
             }
           ]
@@ -1959,8 +2197,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.5,
-                "secretaria_media": 9.12
+                "coordenacao_media": 9.5
               }
             },
             {
@@ -1977,6 +2214,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.0
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.12
               }
             }
           ]
@@ -2016,8 +2261,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.67,
-                "secretaria_media": 9.5
+                "coordenacao_media": 9.67
               }
             },
             {
@@ -2034,6 +2278,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.89
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.5
               }
             }
           ]
@@ -2073,8 +2325,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 7.84,
-                "secretaria_media": 6.16
+                "coordenacao_media": 7.84
               }
             },
             {
@@ -2091,6 +2342,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.0
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 6.16
               }
             }
           ]
@@ -2130,8 +2389,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.35,
-                "secretaria_media": 9.5
+                "coordenacao_media": 9.35
               }
             },
             {
@@ -2148,6 +2406,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.15
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.5
               }
             }
           ]
@@ -2187,8 +2453,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.29,
-                "secretaria_media": 9.86
+                "coordenacao_media": 9.29
               }
             },
             {
@@ -2205,6 +2470,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 8.43
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.86
               }
             }
           ]
@@ -2244,8 +2517,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 7.6,
-                "secretaria_media": 8.6
+                "coordenacao_media": 7.6
               }
             },
             {
@@ -2262,6 +2534,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 5.35
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.6
               }
             }
           ]
@@ -2301,8 +2581,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.64,
-                "secretaria_media": 8.08
+                "coordenacao_media": 9.64
               }
             },
             {
@@ -2319,6 +2598,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.23
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.08
               }
             }
           ]
@@ -2358,8 +2645,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.89,
-                "secretaria_media": 10.0
+                "coordenacao_media": 9.89
               }
             },
             {
@@ -2376,6 +2662,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 9.58
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 10.0
               }
             }
           ]
@@ -2415,8 +2709,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 10.0,
-                "secretaria_media": 10.0
+                "coordenacao_media": 10.0
               }
             },
             {
@@ -2433,6 +2726,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 8.25
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 10.0
               }
             }
           ]
@@ -2472,8 +2773,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.68,
-                "secretaria_media": 9.86
+                "coordenacao_media": 9.68
               }
             },
             {
@@ -2490,6 +2790,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.77
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.86
               }
             }
           ]
@@ -2529,8 +2837,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 10.0,
-                "secretaria_media": 10.0
+                "coordenacao_media": 10.0
               }
             },
             {
@@ -2547,6 +2854,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 9.0
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 10.0
               }
             }
           ]
@@ -2586,8 +2901,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.67,
-                "secretaria_media": 9.67
+                "coordenacao_media": 9.67
               }
             },
             {
@@ -2604,6 +2918,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 8.33
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.67
               }
             }
           ]
@@ -2643,8 +2965,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.52,
-                "secretaria_media": 9.0
+                "coordenacao_media": 9.52
               }
             },
             {
@@ -2661,6 +2982,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.96
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.0
               }
             }
           ]
@@ -2700,8 +3029,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.36,
-                "secretaria_media": 7.68
+                "coordenacao_media": 8.36
               }
             },
             {
@@ -2718,6 +3046,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.32
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 7.68
               }
             }
           ]
@@ -2757,8 +3093,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.12,
-                "secretaria_media": 9.38
+                "coordenacao_media": 9.12
               }
             },
             {
@@ -2775,6 +3110,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.88
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.38
               }
             }
           ]
@@ -2814,8 +3157,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.73,
-                "secretaria_media": 9.13
+                "coordenacao_media": 8.73
               }
             },
             {
@@ -2832,6 +3174,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.97
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.13
               }
             }
           ]
@@ -2871,8 +3221,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.67,
-                "secretaria_media": 9.67
+                "coordenacao_media": 9.67
               }
             },
             {
@@ -2889,6 +3238,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.5
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.67
               }
             }
           ]
@@ -2928,8 +3285,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.22,
-                "secretaria_media": 8.87
+                "coordenacao_media": 9.22
               }
             },
             {
@@ -2946,6 +3302,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.3
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.87
               }
             }
           ]
@@ -2985,8 +3349,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.86,
-                "secretaria_media": 9.86
+                "coordenacao_media": 9.86
               }
             },
             {
@@ -3003,6 +3366,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.21
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.86
               }
             }
           ]
@@ -3042,8 +3413,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.36,
-                "secretaria_media": 9.36
+                "coordenacao_media": 9.36
               }
             },
             {
@@ -3060,6 +3430,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.69
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.36
               }
             }
           ]
@@ -3099,8 +3477,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.79,
-                "secretaria_media": 9.57
+                "coordenacao_media": 9.79
               }
             },
             {
@@ -3117,6 +3494,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.86
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.57
               }
             }
           ]
@@ -3156,8 +3541,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.4,
-                "secretaria_media": 9.9
+                "coordenacao_media": 9.4
               }
             },
             {
@@ -3174,6 +3558,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.8
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.9
               }
             }
           ]
@@ -3213,8 +3605,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.6,
-                "secretaria_media": 8.8
+                "coordenacao_media": 9.6
               }
             },
             {
@@ -3231,6 +3622,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.4
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.8
               }
             }
           ]
@@ -3270,8 +3669,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.73,
-                "secretaria_media": 9.88
+                "coordenacao_media": 9.73
               }
             },
             {
@@ -3288,6 +3686,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.92
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.88
               }
             }
           ]
@@ -3327,8 +3733,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.62,
-                "secretaria_media": 9.67
+                "coordenacao_media": 9.62
               }
             },
             {
@@ -3345,6 +3750,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 5.54
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.67
               }
             }
           ]
@@ -3384,8 +3797,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.63,
-                "secretaria_media": 9.4
+                "coordenacao_media": 9.63
               }
             },
             {
@@ -3402,6 +3814,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.09
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.4
               }
             }
           ]
@@ -3441,8 +3861,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.38,
-                "secretaria_media": 6.57
+                "coordenacao_media": 8.38
               }
             },
             {
@@ -3459,6 +3878,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.83
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 6.57
               }
             }
           ]
@@ -3498,8 +3925,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.2,
-                "secretaria_media": 9.3
+                "coordenacao_media": 9.2
               }
             },
             {
@@ -3516,6 +3942,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.1
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.3
               }
             }
           ]
@@ -3555,8 +3989,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.72,
-                "secretaria_media": 8.83
+                "coordenacao_media": 8.72
               }
             },
             {
@@ -3573,6 +4006,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.31
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.83
               }
             }
           ]
@@ -3612,8 +4053,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.6,
-                "secretaria_media": 9.4
+                "coordenacao_media": 9.6
               }
             },
             {
@@ -3630,6 +4070,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.2
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.4
               }
             }
           ]
@@ -3669,8 +4117,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.36,
-                "secretaria_media": 9.79
+                "coordenacao_media": 9.36
               }
             },
             {
@@ -3687,6 +4134,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.14
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.79
               }
             }
           ]
@@ -3726,8 +4181,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.07,
-                "secretaria_media": 8.86
+                "coordenacao_media": 9.07
               }
             },
             {
@@ -3744,6 +4198,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.36
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 8.86
               }
             }
           ]
@@ -3783,8 +4245,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 10.0,
-                "secretaria_media": 10.0
+                "coordenacao_media": 10.0
               }
             },
             {
@@ -3801,6 +4262,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.0
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 10.0
               }
             }
           ]
@@ -3840,8 +4309,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.79,
-                "secretaria_media": 6.57
+                "coordenacao_media": 9.79
               }
             },
             {
@@ -3858,6 +4326,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 5.14
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 6.57
               }
             }
           ]
@@ -3897,8 +4373,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.89,
-                "secretaria_media": 9.96
+                "coordenacao_media": 9.89
               }
             },
             {
@@ -3915,6 +4390,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.71
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.96
               }
             }
           ]
@@ -3954,8 +4437,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.52,
-                "secretaria_media": 9.39
+                "coordenacao_media": 9.52
               }
             },
             {
@@ -3972,6 +4454,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 6.76
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.39
               }
             }
           ]
@@ -4011,8 +4501,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.11,
-                "secretaria_media": 7.96
+                "coordenacao_media": 9.11
               }
             },
             {
@@ -4029,6 +4518,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 5.57
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 7.96
               }
             }
           ]
@@ -4068,8 +4565,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 9.27,
-                "secretaria_media": 7.55
+                "coordenacao_media": 9.27
               }
             },
             {
@@ -4086,6 +4582,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 7.0
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 7.55
               }
             }
           ]
@@ -4125,8 +4629,7 @@
               "subtitulo": "Coordenação",
               "fonte": "SARA",
               "indicadores": {
-                "coordenacao_media": 8.96,
-                "secretaria_media": 9.21
+                "coordenacao_media": 8.96
               }
             },
             {
@@ -4143,6 +4646,14 @@
               "fonte": "SARA",
               "indicadores": {
                 "infraestrutura_media": 8.12
+              }
+            },
+            {
+              "titulo": "Suporte à Formação",
+              "subtitulo": "Secretaria",
+              "fonte": "SARA",
+              "indicadores": {
+                "secretaria_media": 9.21
               }
             }
           ]
