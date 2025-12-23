@@ -1,0 +1,4683 @@
+{
+    "periodo": 2024.2,
+    "fonte": "SARA",
+    "programas": [
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ADMINISTRAÇÃO",
+                "sigla_programa": "CCSA - PPGA",
+                "centro": "CCSA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.57
+                            },
+                            "analise": "O indicador “coordenacao_media” de 9,57 reflete um nível elevado de efetividade dos processos internos de coordenação na área de Suporte à Formação. Esse valor sugere que as atividades de planejamento, monitoramento e suporte aos cursos estão bem estruturadas e alinhadas às metas acadêmicas. A alta pontuação indica forte sinergia entre as equipes de coordenação e os demais setores, contribuindo para a qualidade e continuidade do ensino."
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.42
+                            },
+                            "analise": "O índice médio de desempenho dos docentes (9,42) reflete um nível elevado de eficácia interna, evidenciando processos de ensino bem estruturados e alinhados aos objetivos estratégicos. Esse valor sugere que a qualidade pedagógica está contribuindo de forma significativa para a performance geral da instituição. A métrica demonstra a efetividade dos mecanismos de avaliação e desenvolvimento de recursos humanos na área de formação."
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.37
+                            },
+                            "analise": "O valor médio de infraestrutura (7,37) reflete uma adequação razoável das instalações e recursos técnicos da instituição.  \nIndicando que a maioria das áreas físicas e de apoio está em condições satisfatórias, porém ainda há espaço para otimizações que possam elevar ainda mais a qualidade do ambiente acadêmico."
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.58
+                            },
+                            "analise": "A média de avaliação da secretaria, conforme SARA, é de 9,58, indicando alta qualidade percebida pelos estudantes. Este resultado demonstra que os processos internos de apoio à formação estão bem estruturados e atendem às necessidades dos usuários. Tal desempenho reforça a eficácia das atividades de suporte acadêmico dentro da instituição."
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.31
+                            },
+                            "analise": "O NPS de 9,31 reflete uma forte recomendação do programa, evidenciando alta satisfação dos estudantes e parceiros. Esse resultado indica que o vínculo entre formação acadêmica e a comunidade de organizações está bem consolidado. O índice sugere que o programa cumpre efetivamente as expectativas e reforça a reputação institucional perante o mercado e os estudantes."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ANTROPOLOGIA",
+                "sigla_programa": "PPGA",
+                "centro": "CCAE"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.76
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.07
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.05
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.27
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.46
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ARQUITETURA E URBANISMO",
+                "sigla_programa": "CT - PPGAU",
+                "centro": "CT"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.1
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 7.92
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 5.86
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.38
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.33
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ARTES",
+                "sigla_programa": "PROFARTES",
+                "centro": "CCTA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.08
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.96
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 5.77
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.62
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.23
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "BIODIVERSIDADE",
+                "sigla_programa": "PPGBIO",
+                "centro": "CCA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.57
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.43
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 8.05
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.38
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.76
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "BIOLOGIA CELULAR MOLECULAR",
+                "sigla_programa": "PPBCM",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 10.0
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.91
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.92
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 10.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.33
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "BIOTECNOLOGIA",
+                "sigla_programa": "PGBiotecM",
+                "centro": "CBIOTEC"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.0
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.62
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.0
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.4
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.4
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "BIOTECNOLOGIA",
+                "sigla_programa": "RENORBIO",
+                "centro": "CBIOTEC"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.88
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.68
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.88
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.12
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIA ANIMAL",
+                "sigla_programa": "PPGCAN",
+                "centro": "CCA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.41
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.68
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.97
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.83
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.66
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIA DA INFORMAÇÃO",
+                "sigla_programa": "PPGCI",
+                "centro": "CCSA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.04
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.01
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 8.25
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.67
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIA DO SOLO",
+                "sigla_programa": "CCA - PPGCS",
+                "centro": "CCA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.29
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.3
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.29
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 7.43
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.14
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIA E ENGENHARIA DE MATERIAIS",
+                "sigla_programa": "CT - PPCEM",
+                "centro": "CT"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.35
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.28
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.81
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.08
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.54
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIA E TECNOLOGIA DOS ALIMENTOS",
+                "sigla_programa": "CT - PPGCTA",
+                "centro": "CT"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.67
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.53
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.89
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.72
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.44
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIA POLÍTICA E RELAÇÕES INTERNACIONAIS",
+                "sigla_programa": "CPRI",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.36
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.8
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.36
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.41
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIAS AGRÁRIAS (AGROECOLOGIA)",
+                "sigla_programa": "PPGCAG",
+                "centro": "CCHSA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.23
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.39
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.92
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.15
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.92
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIAS BIOLÓGICAS",
+                "sigla_programa": "PPGCB",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.61
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.85
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.3
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.7
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.13
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIAS CONTÁBEIS",
+                "sigla_programa": "CCSA-PPGCC",
+                "centro": "CCSA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.52
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.25
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.91
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.74
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.22
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIAS DA NUTRIÇÃO",
+                "sigla_programa": "PPGCN",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.85
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.74
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.85
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.85
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.46
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "CIÊNCIAS DAS RELIGIÕES",
+                "sigla_programa": "PPGCR",
+                "centro": "CE"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.32
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.28
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.91
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.15
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.98
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "COMUNICAÇÃO",
+                "sigla_programa": "PPGC",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.35
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.65
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.41
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.47
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "DESENVOLVIMENTO E INOVAÇÃO TECNOLOGICA EM MEDICAMENTOS",
+                "sigla_programa": "PPgDITM",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.07
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.14
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 5.41
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.07
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.15
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "DESENVOLVIMENTO E MEIO AMBIENTE",
+                "sigla_programa": "PRODEMA - DOUT",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.15
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.06
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 8.26
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 7.33
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.07
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "DESENVOLVIMENTO E MEIO AMBIENTE",
+                "sigla_programa": "PRODEMA - MEST",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 7.94
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.05
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 8.19
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 7.25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.88
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "DIREITOS HUMANOS, CIDADANIA E POLÍTICAS PÚBLICAS",
+                "sigla_programa": "PPGDH.",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.33
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.41
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.04
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.79
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ECOLOGIA E MONITORAMENTO AMBIENTAL",
+                "sigla_programa": "PPGECOS",
+                "centro": "CCAE"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.93
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.49
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.7
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.04
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.96
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ECONOMIA",
+                "sigla_programa": "CCSA - PPGE",
+                "centro": "CCSA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.85
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.05
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 8.19
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.22
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.59
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "EDUCAÇÃO",
+                "sigla_programa": "CE - PPGE",
+                "centro": "CE"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.42
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.36
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.43
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.16
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.15
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "EDUCAÇÃO FÍSICA",
+                "sigla_programa": "PAPGEF",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.55
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.67
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.84
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.87
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.16
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ENERGIAS RENOVÁVEIS",
+                "sigla_programa": "PPGER",
+                "centro": "CEAR"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.16
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.92
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 8.21
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.53
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.37
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ENFERMAGEM",
+                "sigla_programa": "PPGENF",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.69
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.69
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.88
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.81
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.44
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ENGENHARIA CIVIL E AMBIENTAL",
+                "sigla_programa": "CT - PPGECAM",
+                "centro": "CT"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.2
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.0
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.74
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.98
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.54
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ENGENHARIA DE PRODUÇÃO E SISTEMAS",
+                "sigla_programa": "CT - PPGEPS",
+                "centro": "CT"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.67
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.5
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.58
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.58
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.5
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ENGENHARIA ELÉTRICA",
+                "sigla_programa": "PPGEE",
+                "centro": "CEAR"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.05
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.87
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.1
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.45
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ENGENHARIA MECÂNICA",
+                "sigla_programa": "CT - PPGEM",
+                "centro": "CT"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.18
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.87
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.5
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.23
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.36
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ENGENHARIA QUÍMICA",
+                "sigla_programa": "CT - PPGEQ",
+                "centro": "CT"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.5
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.24
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.0
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.12
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 7.75
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ENSINO DE BIOLOGIA EM REDE NACIONAL",
+                "sigla_programa": "PROFBIO",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.67
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.59
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.89
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.44
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "FILOSOFIA",
+                "sigla_programa": "PPGF",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 7.84
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.23
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.0
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 6.16
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.32
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "FISIOTERAPIA",
+                "sigla_programa": "PPGFIS",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.35
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.46
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.15
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.15
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "FONOAUDIOLOGIA",
+                "sigla_programa": "PPGFON",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.29
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.4
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 8.43
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.86
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.43
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "FÍSICA",
+                "sigla_programa": "CCEN - PPGF",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 7.6
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.35
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 5.35
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.6
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 5.8
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "GEOGRAFIA",
+                "sigla_programa": "CCEN - PPGG",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.64
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.05
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.23
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.08
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.05
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "GERONTOLOGIA",
+                "sigla_programa": "PPGPGERON",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.89
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.97
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 9.58
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 10.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.95
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "GESTÃO DE DOCUMENTOS E GOVERNANÇA ARQUIVÍSTICA",
+                "sigla_programa": "PPGDARQ",
+                "centro": "CCSA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 10.0
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.79
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 8.25
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 10.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.75
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "GESTÃO NAS ORGANIZAÇÕES APRENDENTES",
+                "sigla_programa": "PPGOA",
+                "centro": "CE"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.68
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.62
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.77
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.86
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.77
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "GESTÃO PÚBLICA",
+                "sigla_programa": "CCSA - PPGGP",
+                "centro": "CCSA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 10.0
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.69
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 9.0
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 10.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.8
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "GESTÃO PÚBLICA E COOPERAÇÃO INTERNACIONAL",
+                "sigla_programa": "CCSA - PPGGP",
+                "centro": "CCSA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.67
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.06
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 8.33
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.67
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.17
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "HISTÓRIA",
+                "sigla_programa": "PPGH",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.52
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.57
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.96
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.7
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "INFORMÁTICA",
+                "sigla_programa": "PPGI",
+                "centro": "CI"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.36
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.25
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.32
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 7.68
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.48
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "JORNALISMO",
+                "sigla_programa": "PPJ",
+                "centro": "CCTA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.12
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.09
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.88
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.38
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.25
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "LETRAS",
+                "sigla_programa": "PPGL",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.73
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.67
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.97
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.13
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.03
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "LETRAS",
+                "sigla_programa": "PROFLETRAS",
+                "centro": "CCAE"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.67
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.75
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.5
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.67
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.83
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "LINGUÍSTICA",
+                "sigla_programa": "PROLING",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.22
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.8
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.3
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.87
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.36
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "LINGUÍSTICA E ENSINO",
+                "sigla_programa": "MPLE",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.86
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.33
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.21
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.86
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.86
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "MATEMÁTICA",
+                "sigla_programa": "PPGMAT",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.36
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.33
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.69
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.36
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.44
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "MATEMÁTICA",
+                "sigla_programa": "PROFMAT",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.79
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.05
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.86
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.57
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.36
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "MESTRADO PROFISSIONAL EM PSICOLOGIA CLÍNICA",
+                "sigla_programa": "MPPSICL",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.4
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.52
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.8
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.9
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.15
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "MESTRADO PROFISSIONAL EM QUÍMICA EM REDE NACIONAL",
+                "sigla_programa": "PROFQUI-UFPB",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.6
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.25
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.4
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.8
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.9
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "MODELOS DE DECISÃO E SAÚDE",
+                "sigla_programa": "PPGMDS",
+                "centro": "CCEN"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.73
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.27
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.92
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.88
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.35
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "MÚSICA",
+                "sigla_programa": "PPGM",
+                "centro": "CCTA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.62
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.82
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 5.54
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.67
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.12
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "NEUROCIÊNCIA COGNITIVA E COMPORTAMENTO",
+                "sigla_programa": "PPGNEC",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.63
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.51
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.09
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.4
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.09
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ODONTOLOGIA",
+                "sigla_programa": "PPGO",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.38
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.67
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.83
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 6.57
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.31
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "POLÍTICAS PÚBLICAS, GESTÃO E AVALIAÇÃO DA EDUCAÇÃO SUPERIOR",
+                "sigla_programa": "PPGAVE",
+                "centro": "CE"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.2
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.38
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.1
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.3
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.6
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "PRODUTOS NATURAIS E SINTÉTICOS BIOATIVOS",
+                "sigla_programa": "PPGPN",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.72
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.21
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.31
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.83
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 7.31
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "PROFHISTÓRIA",
+                "sigla_programa": "PROFHISTORIA",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.6
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 10.0
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.2
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.4
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.7
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "PROGRAMA ASSOCIADO DE PÓS-GRADUAÇÃO EM FONOAUDIOLOGIA",
+                "sigla_programa": "PPGFON",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.36
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.67
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.14
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.79
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.36
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "PSICOLOGIA SOCIAL",
+                "sigla_programa": "PPGPS",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.07
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 8.08
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.36
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 8.86
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.57
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "PÓS-GRADUAÇÃO EM SAÚDE DA FAMÍLIA EM REDE NACIONAL",
+                "sigla_programa": "PROFSAÚDE",
+                "centro": "CCM"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 10.0
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.75
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.0
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 10.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 10.0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "SAÚDE COLETIVA",
+                "sigla_programa": "PPGSC",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.79
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.49
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 5.14
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 6.57
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.43
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "SAÚDE DA FAMÍLIA",
+                "sigla_programa": "PPGSF",
+                "centro": "CCS"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.89
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.49
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.71
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.96
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.93
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "SERVIÇO SOCIAL",
+                "sigla_programa": "PPGSS",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.52
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.56
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 6.76
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.39
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.48
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "SOCIOLOGIA",
+                "sigla_programa": "PPGS",
+                "centro": "CCHLA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.11
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.3
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 5.57
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 7.96
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.39
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "TECNOLOGIA AGROALIMENTAR",
+                "sigla_programa": "PPGTA",
+                "centro": "CCHSA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 9.27
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.11
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 7.0
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 7.55
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 8.18
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "primeira_pagina": {
+                "fonte": "SARA",
+                "coorte": 2024.2,
+                "periodo_referencia": 2024.2,
+                "programa": "ZOOTECNIA",
+                "sigla_programa": "PPGZ",
+                "centro": "CCA"
+            },
+            "dimensoes": [
+                {
+                    "grupo": "PROCESSOS INTERNOS",
+                    "nome": "Processos Internos",
+                    "secoes": [
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Coordenação",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "coordenacao_media": 8.96
+                            }
+                        },
+                        {
+                            "titulo": "Formação",
+                            "subtitulo": "Desempenho dos Docentes",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "docentes_media": 9.44
+                            }
+                        },
+                        {
+                            "titulo": "Gestão",
+                            "subtitulo": "Infraestrutura",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "infraestrutura_media": 8.12
+                            }
+                        },
+                        {
+                            "titulo": "Suporte à Formação",
+                            "subtitulo": "Secretaria",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "secretaria_media": 9.21
+                            }
+                        }
+                    ]
+                },
+                {
+                    "grupo": "ESTUDANTES E ORGANIZAÇÕES",
+                    "nome": "Estudantes e Organizações",
+                    "secoes": [
+                        {
+                            "titulo": "NPS",
+                            "subtitulo": "Recomendação do Programa",
+                            "fonte": "SARA",
+                            "indicadores": {
+                                "nps": 9.21
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
