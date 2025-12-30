@@ -15,7 +15,7 @@ from json import load, dump
 with open("src/config.yaml", "r") as f:
     config = safe_load(f)
 
-data_path = f"{config['paths']['analysis_and_recommendation_dir']}/exemplo_musica.json"
+data_path = f"{config['paths']['analysis_and_recommendation_dir']}/sara_2024.2_analise.json"
 
 with open(data_path, 'r', encoding='utf-8') as d:
     data = load(d)
@@ -55,16 +55,17 @@ def save_analysis_to_json(data_path, test=False):
     for n, programa in enumerate(data['programas']):
 
         for i, dimensao in enumerate(programa['dimensoes']):
-            #logger.info(f"Gerando análise para dimensão {dimensao['nome']}")
+            logger.info(f"Gerando análise para dimensão {dimensao['nome']}")
 
             for j, secao in enumerate(programa['dimensoes'][i]['secoes']):
-                #logger.info(f"Gerando análise para seção {secao['titulo']}")
+                logger.info(f"Gerando análise para seção {secao['titulo']}")
                 response = generate_analysis(dimensao['nome'], secao)
                 programa['dimensoes'][i]['secoes'][j]['analise'] = response
         
         if test == True:
             if n == 0:
                 break
+        
 
     p = Path(data_path)
 
@@ -73,5 +74,6 @@ def save_analysis_to_json(data_path, test=False):
     with open(data_save_path, 'w', encoding='utf-8') as file:
         dump(data, file, indent=4, ensure_ascii=False)
 
+    
 
 save_analysis_to_json(data_path, test=True)

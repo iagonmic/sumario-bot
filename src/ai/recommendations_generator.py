@@ -6,6 +6,8 @@ from agno.agent import Agent
 from agno.models.groq import Groq
 from src.utils.logger import get_logger
 from dotenv import load_dotenv
+from pathlib import Path
+
 
 # teste
 from yaml import safe_load
@@ -14,7 +16,7 @@ from json import load, dump
 with open("src/config.yaml", "r") as f:
     config = safe_load(f)
 
-data_path = f"{config['paths']['examples_dir']}/exemplo_musica_analise.json"
+data_path = f"{config['paths']['analysis_and_recommendation_dir']}/exemplo_musica_analise.json"
 
 with open(data_path, 'r', encoding='utf-8') as d:
     data = load(d)
@@ -51,21 +53,39 @@ def generate_recommendations(dimensao_nome, secao) -> list:
     ]
     '''
     
-    
     return recomendacoes_texto
 
-def save_recommendations_to_json(data):
-    for i, dimensao in enumerate(data['dimensoes']):
-        logger.info(f"Gerando recomendações para dimensão {dimensao['nome']}")
+def save_recommendations_to_json(data_path, test=False):
+    # ler arquivo
+    with open(data_path, 'r', encoding='utf-8') as d:
+        data = load(d)
 
-        for j, secao in enumerate(data['dimensoes'][i]['secoes']):
-            logger.info(f"Gerando recomendações para seção {secao['titulo']}")
-            response = generate_recommendations(dimensao['nome'], secao)
-            data['dimensoes'][i]['secoes'][j]['recomendacoes'] = response
+    p = Path(data_path)
+
+    # criar condição para incrementar recomendações do sara a partir dos dados
+    if 'sara' in p.name:
+        pass
+
+    for n, programa in enumerate(data['programas']):
     
-    data_save_path = f"{config['paths']['examples_dir']}/exemplo_musica_recomendacao.json"
+        for i, dimensao in enumerate(programa['dimensoes']):
+            #logger.info(f"Gerando recomendações para dimensão {dimensao['nome']}")
+
+            for j, secao in enumerate(programa['dimensoes'][i]['secoes']):
+                #logger.info(f"Gerando recomendações para seção {secao['titulo']}")
+                response = generate_recommendations(dimensao['nome'], secao)
+                programa['dimensoes'][i]['secoes'][j]['recomendacoes'] = response
+        
+        if test == True:
+            if n == 0:
+                break
+
+    p = Path(data_path)
+
+    data_save_path = p.with_name(f"{p.stem}_analise{p.suffix}")
 
     with open(data_save_path, 'w', encoding='utf-8') as file:
         dump(data, file, indent=4, ensure_ascii=False)
 
-save_recommendations_to_json(data)
+
+save_recommendations_to_json(data_path, test=True)
