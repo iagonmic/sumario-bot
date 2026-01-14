@@ -7,6 +7,7 @@ from agno.models.groq import Groq
 from src.utils.logger import get_logger
 from dotenv import load_dotenv
 from pathlib import Path
+import pandas as pd
 
 
 # teste
@@ -64,9 +65,12 @@ def save_recommendations_to_json(data_path, test=False):
 
     # criar condição para incrementar recomendações do sara a partir dos dados
     if 'sara' in p.name:
-        pass
+        df_recom = get_recommendations(data_path)
 
     for n, programa in enumerate(data['programas']):
+        print(programa)
+        print(df_recom.head())
+        break # teste ##################
     
         for i, dimensao in enumerate(programa['dimensoes']):
             #logger.info(f"Gerando recomendações para dimensão {dimensao['nome']}")
@@ -86,6 +90,15 @@ def save_recommendations_to_json(data_path, test=False):
 
     with open(data_save_path, 'w', encoding='utf-8') as file:
         dump(data, file, indent=4, ensure_ascii=False)
+
+def get_recommendations(data_path):
+    p = Path(data_path)
+    df = pd.read_excel(p, sheet_name='Melhoria')
+    df_mean = df.groupby(['PERIODO_LETIVO', 'PROGRAMA', 'SIGLA_PROGRAMA', 'SIGLA_CENTRO', 'DIMENSÃO'])['RESPOSTA'].mean().apply(lambda x: round(x*100, 2)).reset_index()
+    df_sorted = df_mean.sort_values(by=['PERIODO_LETIVO', 'PROGRAMA', 'SIGLA_PROGRAMA', 'SIGLA_CENTRO', 'RESPOSTA'],
+                    ascending=[True, True, True, True, False])
+    
+    return df_sorted
 
 
 save_recommendations_to_json(data_path, test=True)
