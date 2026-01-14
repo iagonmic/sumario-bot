@@ -23,8 +23,7 @@
                             "indicadores": {
                                 "coordenacao_media": 9.57
                             },
-                            "analise": "O indicador “coordenacao_media” de 9,57 reflete um nível elevado de efetividade dos processos internos de coordenação na área de Suporte à Formação. Esse valor sugere que as atividades de planejamento, monitoramento e suporte aos cursos estão bem estruturadas e alinhadas às metas acadêmicas. A alta pontuação indica forte sinergia entre as equipes de coordenação e os demais setores, contribuindo para a qualidade e continuidade do ensino.",
-                            "recomendacoes": "Com média 9,57, a coordenação de suporte à formação está sólida. Para sustentar e avançar, implemente revisões trimestrais de planos, use dashboards em tempo real, capacite líderes em métricas de qualidade e fomente integração contínua com áreas acadêmicas e de serviços."
+                            "analise": "O indicador “coordenacao_media” de 9,57 reflete um nível elevado de efetividade dos processos internos de coordenação na área de Suporte à Formação. Esse valor sugere que as atividades de planejamento, monitoramento e suporte aos cursos estão bem estruturadas e alinhadas às metas acadêmicas. A alta pontuação indica forte sinergia entre as equipes de coordenação e os demais setores, contribuindo para a qualidade e continuidade do ensino."
                         },
                         {
                             "titulo": "Formação",
@@ -33,8 +32,7 @@
                             "indicadores": {
                                 "docentes_media": 9.42
                             },
-                            "analise": "O índice médio de desempenho dos docentes (9,42) reflete um nível elevado de eficácia interna, evidenciando processos de ensino bem estruturados e alinhados aos objetivos estratégicos. Esse valor sugere que a qualidade pedagógica está contribuindo de forma significativa para a performance geral da instituição. A métrica demonstra a efetividade dos mecanismos de avaliação e desenvolvimento de recursos humanos na área de formação.",
-                            "recomendacoes": "Para sustentar o alto índice de desempenho docente (9,42), recomenda‑se implementar ciclos de avaliação contínua e feedback estruturado, reforçar programas de desenvolvimento profissional alinhados à visão estratégica e promover a troca de boas práticas entre departamentos, assegurando processos internos eficientes e sustentáveis."
+                            "analise": "O índice médio de desempenho dos docentes (9,42) reflete um nível elevado de eficácia interna, evidenciando processos de ensino bem estruturados e alinhados aos objetivos estratégicos. Esse valor sugere que a qualidade pedagógica está contribuindo de forma significativa para a performance geral da instituição. A métrica demonstra a efetividade dos mecanismos de avaliação e desenvolvimento de recursos humanos na área de formação."
                         },
                         {
                             "titulo": "Gestão",
@@ -43,8 +41,7 @@
                             "indicadores": {
                                 "infraestrutura_media": 7.37
                             },
-                            "analise": "O valor médio de infraestrutura (7,37) reflete uma adequação razoável das instalações e recursos técnicos da instituição.  \nIndicando que a maioria das áreas físicas e de apoio está em condições satisfatórias, porém ainda há espaço para otimizações que possam elevar ainda mais a qualidade do ambiente acadêmico.",
-                            "recomendacoes": "Para aprimorar processos internos de infraestrutura, recomenda‑se: 1) Implementar plano de manutenção preventiva e monitoramento de equipamentos; 2) Investir em tecnologias sustentáveis (iluminação LED, energia solar); 3) Estabelecer canal de feedback dos usuários; 4) Capacitar equipes de TI e conservação."
+                            "analise": "O valor médio de infraestrutura (7,37) reflete uma adequação razoável das instalações e recursos técnicos da instituição.  \nIndicando que a maioria das áreas físicas e de apoio está em condições satisfatórias, porém ainda há espaço para otimizações que possam elevar ainda mais a qualidade do ambiente acadêmico."
                         },
                         {
                             "titulo": "Suporte à Formação",
@@ -53,8 +50,7 @@
                             "indicadores": {
                                 "secretaria_media": 9.58
                             },
-                            "analise": "A média de avaliação da secretaria, conforme SARA, é de 9,58, indicando alta qualidade percebida pelos estudantes. Este resultado demonstra que os processos internos de apoio à formação estão bem estruturados e atendem às necessidades dos usuários. Tal desempenho reforça a eficácia das atividades de suporte acadêmico dentro da instituição.",
-                            "recomendacoes": "Manter o padrão de excelência exigindo auditorias periódicas, implementar sistemas de feedback em tempo real, treinar equipe em novos softwares, criar indicadores de tempo de resposta e promover workshops de melhoria contínua para garantir alinhamento aos objetivos de qualidade acadêmica."
+                            "analise": "A média de avaliação da secretaria, conforme SARA, é de 9,58, indicando alta qualidade percebida pelos estudantes. Este resultado demonstra que os processos internos de apoio à formação estão bem estruturados e atendem às necessidades dos usuários. Tal desempenho reforça a eficácia das atividades de suporte acadêmico dentro da instituição."
                         }
                     ]
                 },
@@ -69,8 +65,7 @@
                             "indicadores": {
                                 "nps": 9.31
                             },
-                            "analise": "O NPS de 9,31 reflete uma forte recomendação do programa, evidenciando alta satisfação dos estudantes e parceiros. Esse resultado indica que o vínculo entre formação acadêmica e a comunidade de organizações está bem consolidado. O índice sugere que o programa cumpre efetivamente as expectativas e reforça a reputação institucional perante o mercado e os estudantes.",
-                            "recomendacoes": "Fortaleça as parcerias já consolidadas com empresas, órgãos públicos e ONGs, ampliando setores emergentes. Implante ciclos de feedback trimestrais com estudantes e parceiros para ajustar conteúdos e práticas. Use o NPS como KPI contínuo no Balanced Scorecard, monitorando evolução por cohortes."
+                            "analise": "O NPS de 9,31 reflete uma forte recomendação do programa, evidenciando alta satisfação dos estudantes e parceiros. Esse resultado indica que o vínculo entre formação acadêmica e a comunidade de organizações está bem consolidado. O índice sugere que o programa cumpre efetivamente as expectativas e reforça a reputação institucional perante o mercado e os estudantes."
                         }
                     ]
                 }

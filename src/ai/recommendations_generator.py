@@ -4,7 +4,7 @@ Gera recomendações para cada dimensão.
 
 from agno.agent import Agent
 from agno.models.groq import Groq
-from src.utils.logger import get_logger
+#from src.utils.logger import get_logger
 from dotenv import load_dotenv
 from pathlib import Path
 import pandas as pd
@@ -17,14 +17,16 @@ from json import load, dump
 with open("src/config.yaml", "r") as f:
     config = safe_load(f)
 
-data_path = f"{config['paths']['analysis_and_recommendation_dir']}/exemplo_musica_analise.json"
+data_path = f"{config['paths']['analysis_and_recommendation_dir']}/sara_2024.2_analise.json"
 
 with open(data_path, 'r', encoding='utf-8') as d:
     data = load(d)
 
 load_dotenv()
 
-logger = get_logger("recommendations")
+#logger = get_logger("recommendations")
+
+
 
 def generate_recommendations(dimensao_nome, secao) -> list:
 
@@ -62,15 +64,16 @@ def save_recommendations_to_json(data_path, test=False):
         data = load(d)
 
     p = Path(data_path)
+    recom_path = Path("C:/Users/Usuario/Desktop/data-science/sumario-bot/data/principal/Dados_PRPG.xlsx")
 
     # criar condição para incrementar recomendações do sara a partir dos dados
     if 'sara' in p.name:
-        df_recom = get_recommendations(data_path)
+        df_recom = get_recommendations(recom_path)
 
     for n, programa in enumerate(data['programas']):
         print(programa)
         print(df_recom.head())
-        break # teste ##################
+        break
     
         for i, dimensao in enumerate(programa['dimensoes']):
             #logger.info(f"Gerando recomendações para dimensão {dimensao['nome']}")
