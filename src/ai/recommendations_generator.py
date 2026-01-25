@@ -31,7 +31,7 @@ load_dotenv()
 
 
 
-def generate_recommendations(dimensao_nome, top_3) -> list:
+def generate_recommendations(dimensao_nome, melhoria) -> list:
 
     agent = Agent(model=Groq(id='openai/gpt-oss-20b'),
     description="Você é um analista de dados especialista no âmbito acadêmico",
@@ -46,7 +46,7 @@ def generate_recommendations(dimensao_nome, top_3) -> list:
 )
     
     response = agent.run(
-        f"""Esses são as 3 partes que precisam melhorar: {top_3} da dimensão {dimensao_nome}, elas estão em porcentagem (numero variando de 0 a 100), baseado nisso gere recomendações para essas top 3 coisas que precisam melhorar seguindo uma estrutura parecida com: 
+        f"""Esse é a chave (nome do indicador) e valor (percentual de melhoria de 0 a 100, sendo 100 que precisa melhorar extremamente) da dimensão {dimensao_nome}, no seguinte dicionário: {melhoria} elas estão em porcentagem (numero variando de 0 a 100), baseado nisso gere recomendações para essas top 3 coisas que precisam melhorar seguindo uma estrutura parecida com: 
         Para fortalecer a inserção dos egressos no mercado de trabalho, é fundamental ampliar as parcerias com empresas, órgãos públicos e organizações sociais, bem como incentivar projetos de extensão e estágios que aproximem os estudantes da prática profissional. Além disso, a criação de mecanismos de acompanhamento dos egressos permite identificar áreas com baixa empregabilidade e ajustar a formação oferecida, garantindo maior alinhamento às demandas atuais do mercado.""")
     
     # Converte o texto em lista
@@ -75,17 +75,25 @@ def save_recommendations_to_json(data_path, test=False):
 
     for n, programa in enumerate(data['programas']):
         df_recom_copy = df_recom.query("PERIODO_LETIVO == @programa['primeira_pagina']['coorte'] and PROGRAMA == @programa['primeira_pagina']['programa']") # filtrar pelo ano do programa e pelo programa
+        melhorias = df_recom_copy.filter(['DIMENSÃO', 'RESPOSTA']).set_index('DIMENSÃO')['RESPOSTA'].to_dict() # extrai top 3 dimensões e gera recomendação baseado nisso
         top_3_melhorias = df_recom_copy.iloc[0:3].filter(['DIMENSÃO', 'RESPOSTA']).set_index('DIMENSÃO')['RESPOSTA'].to_dict() # extrai top 3 dimensões e gera recomendação baseado nisso
+        programa['top_3_melhorias'] = top_3_melhorias
     
         for i, dimensao in enumerate(programa['dimensoes']):
             #logger.info(f"Gerando recomendações para dimensão {dimensao['nome']}")
-
+            
             for j, secao in enumerate(programa['dimensoes'][i]['secoes']):
                 #logger.info(f"Gerando recomendações para seção {secao['titulo']}")
-                response = generate_recommendations(dimensao['nome'], top_3_melhorias)
-                print(dimensao['nome'])
-                programa['dimensoes'][i]['secoes'][j]['recomendacoes'] = response
-                programa['dimensoes'][i]['secoes'][j]['top_3_melhorias'] = top_3_melhorias
+
+                for key, value in melhorias.items():
+                    print(key, secao['subtitulo'])
+                    if key in secao['subtitulo']:
+                        print(key in secao['subtitulo'])
+                        melhoria = retornar_dict(key, value)
+                        response = generate_recommendations(dimensao['nome'], melhoria)
+                        programa['dimensoes'][i]['secoes'][j]['indicador_melhoria'] = melhoria
+                        programa['dimensoes'][i]['secoes'][j]['recomendacoes'] = response
+
         
         if test == True:
             if n == 0:
@@ -93,7 +101,7 @@ def save_recommendations_to_json(data_path, test=False):
 
     p = Path(data_path)
 
-    data_save_path = p.with_name(f"{p.stem}_analise{p.suffix}")
+    data_save_path = p.with_name(f"{p.stem}_recomendacao{p.suffix}")
 
     with open(data_save_path, 'w', encoding='utf-8') as file:
         dump(data, file, indent=4, ensure_ascii=False)
@@ -107,5 +115,7 @@ def get_recommendations(data_path):
     
     return df_sorted
 
+def retornar_dict(chave, valor):
+    return {chave: valor}
 
 save_recommendations_to_json(data_path, test=True)
