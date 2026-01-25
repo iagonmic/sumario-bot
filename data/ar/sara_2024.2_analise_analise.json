@@ -23,7 +23,13 @@
                             "indicadores": {
                                 "coordenacao_media": 9.57
                             },
-                            "analise": "O indicador “coordenacao_media” de 9,57 reflete um nível elevado de efetividade dos processos internos de coordenação na área de Suporte à Formação. Esse valor sugere que as atividades de planejamento, monitoramento e suporte aos cursos estão bem estruturadas e alinhadas às metas acadêmicas. A alta pontuação indica forte sinergia entre as equipes de coordenação e os demais setores, contribuindo para a qualidade e continuidade do ensino."
+                            "analise": "O indicador “coordenacao_media” de 9,57 reflete um nível elevado de efetividade dos processos internos de coordenação na área de Suporte à Formação. Esse valor sugere que as atividades de planejamento, monitoramento e suporte aos cursos estão bem estruturadas e alinhadas às metas acadêmicas. A alta pontuação indica forte sinergia entre as equipes de coordenação e os demais setores, contribuindo para a qualidade e continuidade do ensino.",
+                            "recomendacoes": "Autoavaliação: ciclos trimestrais de indicadores e feedback de docentes/estudantes, reforçando governança. Infraestrutura: manutenção preventiva e upgrade tecnológico em salas e laboratórios. Coordenação: capacitar gestores em metodologias ágeis, alinhando processos ao Scorecard.",
+                            "top_3_melhorias": {
+                                "Autoavaliação": 20.93,
+                                "Infraestrutura": 16.94,
+                                "Coordenação": 7.27
+                            }
                         },
                         {
                             "titulo": "Formação",
@@ -32,7 +38,13 @@
                             "indicadores": {
                                 "docentes_media": 9.42
                             },
-                            "analise": "O índice médio de desempenho dos docentes (9,42) reflete um nível elevado de eficácia interna, evidenciando processos de ensino bem estruturados e alinhados aos objetivos estratégicos. Esse valor sugere que a qualidade pedagógica está contribuindo de forma significativa para a performance geral da instituição. A métrica demonstra a efetividade dos mecanismos de avaliação e desenvolvimento de recursos humanos na área de formação."
+                            "analise": "O índice médio de desempenho dos docentes (9,42) reflete um nível elevado de eficácia interna, evidenciando processos de ensino bem estruturados e alinhados aos objetivos estratégicos. Esse valor sugere que a qualidade pedagógica está contribuindo de forma significativa para a performance geral da instituição. A métrica demonstra a efetividade dos mecanismos de avaliação e desenvolvimento de recursos humanos na área de formação.",
+                            "recomendacoes": "Elevar a Autoavaliação requer ciclos trimestrais de feedback docente-aluno via plataformas digitais. Na Infraestrutura, priorizar laboratórios e espaços colaborativos com tecnologia de apoio. Na Coordenação, criar comitês multidisciplinares para monitorar processos, garantindo transparência e eficiência.",
+                            "top_3_melhorias": {
+                                "Autoavaliação": 20.93,
+                                "Infraestrutura": 16.94,
+                                "Coordenação": 7.27
+                            }
                         },
                         {
                             "titulo": "Gestão",
@@ -41,7 +53,13 @@
                             "indicadores": {
                                 "infraestrutura_media": 7.37
                             },
-                            "analise": "O valor médio de infraestrutura (7,37) reflete uma adequação razoável das instalações e recursos técnicos da instituição.  \nIndicando que a maioria das áreas físicas e de apoio está em condições satisfatórias, porém ainda há espaço para otimizações que possam elevar ainda mais a qualidade do ambiente acadêmico."
+                            "analise": "O valor médio de infraestrutura (7,37) reflete uma adequação razoável das instalações e recursos técnicos da instituição.  \nIndicando que a maioria das áreas físicas e de apoio está em condições satisfatórias, porém ainda há espaço para otimizações que possam elevar ainda mais a qualidade do ambiente acadêmico.",
+                            "recomendacoes": "Autoavaliação: implementar ciclos de avaliação contínua com dashboard de desempenho, envolvendo docentes e alunos. Infraestrutura: priorizar manutenção preventiva e upgrades de laboratórios e salas. Coordenação: capacitar coordenadores em gestão de projetos e comunicação eficaz.",
+                            "top_3_melhorias": {
+                                "Autoavaliação": 20.93,
+                                "Infraestrutura": 16.94,
+                                "Coordenação": 7.27
+                            }
                         },
                         {
                             "titulo": "Suporte à Formação",
@@ -50,7 +68,13 @@
                             "indicadores": {
                                 "secretaria_media": 9.58
                             },
-                            "analise": "A média de avaliação da secretaria, conforme SARA, é de 9,58, indicando alta qualidade percebida pelos estudantes. Este resultado demonstra que os processos internos de apoio à formação estão bem estruturados e atendem às necessidades dos usuários. Tal desempenho reforça a eficácia das atividades de suporte acadêmico dentro da instituição."
+                            "analise": "A média de avaliação da secretaria, conforme SARA, é de 9,58, indicando alta qualidade percebida pelos estudantes. Este resultado demonstra que os processos internos de apoio à formação estão bem estruturados e atendem às necessidades dos usuários. Tal desempenho reforça a eficácia das atividades de suporte acadêmico dentro da instituição.",
+                            "recomendacoes": "Operation cancelled by user",
+                            "top_3_melhorias": {
+                                "Autoavaliação": 20.93,
+                                "Infraestrutura": 16.94,
+                                "Coordenação": 7.27
+                            }
                         }
                     ]
                 },
@@ -65,7 +89,13 @@
                             "indicadores": {
                                 "nps": 9.31
                             },
-                            "analise": "O NPS de 9,31 reflete uma forte recomendação do programa, evidenciando alta satisfação dos estudantes e parceiros. Esse resultado indica que o vínculo entre formação acadêmica e a comunidade de organizações está bem consolidado. O índice sugere que o programa cumpre efetivamente as expectativas e reforça a reputação institucional perante o mercado e os estudantes."
+                            "analise": "O NPS de 9,31 reflete uma forte recomendação do programa, evidenciando alta satisfação dos estudantes e parceiros. Esse resultado indica que o vínculo entre formação acadêmica e a comunidade de organizações está bem consolidado. O índice sugere que o programa cumpre efetivamente as expectativas e reforça a reputação institucional perante o mercado e os estudantes.",
+                            "recomendacoes": "Autoavaliação: implementar plataforma digital de feedback contínuo, workshops de autorreflexão e indicadores de desempenho individual; Infraestrutura: priorizar renovação de laboratórios, conectividade Wi‑Fi campus‑wide e manutenção preventiva de prédios; Coordenação: capacitar líderes acadêmicos, criar comitês multidisciplinares e melhorar canais de comunicação interna.",
+                            "top_3_melhorias": {
+                                "Autoavaliação": 20.93,
+                                "Infraestrutura": 16.94,
+                                "Coordenação": 7.27
+                            }
                         }
                     ]
                 }
